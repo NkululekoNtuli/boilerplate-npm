@@ -2,6 +2,7 @@
 	"author": "Nkululeko",
 	"discription": "This is used for learning purposes",
 	"keywords": ["descriptive", "related", "words", "freecodecamp"],
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
